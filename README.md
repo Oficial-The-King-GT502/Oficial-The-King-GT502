@@ -12,7 +12,7 @@
 ¿QUIERES VOLVER A CARGAR EL SCRIPT? AMO MI NOMBRE / ENLACE CHANEL .... NO CAMBIE LA INFORMACIÓN !!!
 
 ## NOTA:>
-NO VENDE / COMPRE GUIÓN, ESTE GUIÓN ES 100% GRATIS PARA LOS USUARIOS DE TERMUX
+NO VENDA / COMPRE GUIÓN, ESTE GUIÓN ES 100% GRATIS PARA LOS USUARIOS DE TERMUX
 </div>
 
 ### HERRAMIENTAS Y MATERIALES <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width = "29px">
@@ -23,7 +23,7 @@ bash
 > almacenamiento adecuado
 > aplicación whatsapp
 > aplicación termux
-> café + cigarrillos KKKK; -;
+> café + cigarrillos y una novia KKKK; -;
 ''
 INSTALACIÓN:
 
@@ -40,7 +40,7 @@ INSTALACIÓN:
 
 ## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| SAMUBOT      |                   Característica        |
+| The King Bot  |                   Característica        |
 | :-----------: | :------------------------------: |
 |       ✅       | Criador de adesivos                  |
 |       ✅       | Nulis                            |
